@@ -10,7 +10,7 @@
     loading = true;
     patientData = null;
     try {
-      const res = await fetch('http://127.0.0.1:9090/get_patient_result/', {
+      const res = await fetch('http://123.25.21.22:9090/get_patient_result/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ phone, password })
