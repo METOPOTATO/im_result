@@ -120,15 +120,17 @@
       <img src="/icons/logo-medicare.png" alt="I-MEDICARE Logo" class="logo" />
       <ul>
         <li><strong>Have a question?</strong><br />024-3880-3333</li>
-        <li><strong>Contact us at</strong><br />Trung tâm thương mại The Garden, Mễ Trì, Hà Nội</li>
+        <li>
+          <strong>Contact us at</strong><br />TTầng 1, Toà nhà The Garden, Đường Mễ Trì, Phường Từ Liêm, Hà Nội
+        </li>
         <li><strong>Email</strong><br />clinic.imedic@gmail.com</li>
       </ul>
       <div class="social-icons">
-        <a href="#"><img src="/icons/facebook.png" alt="Facebook" /></a>
-        <a href="#"><img src="/icons/kakao.png" alt="Talk" /></a>
+        <a href="https://www.facebook.com/pkdk.imedicare"><img src="/icons/facebook.png" alt="Facebook" /></a>
+        <a href="https://pf.kakao.com/_WxikRK"><img src="/icons/kakao.png" alt="Talk" /></a>
         <a href="#"><img src="/icons/youtube.png" alt="YouTube" /></a>
-        <a href="#"><img src="/icons/zalo.png" alt="Zalo" /></a>
-        <a href="#"><img src="/icons/tiktok.png" alt="TikTok" /></a>
+        <a href="https://zalo.me/pkdkimedicare"><img src="/icons/zalo.png" alt="Zalo" /></a>
+        <a href="https://www.tiktok.com/@imedicare"><img src="/icons/tiktok.png" alt="TikTok" /></a>
       </div>
     </div>
 
